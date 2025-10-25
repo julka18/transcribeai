@@ -6,4 +6,4 @@ requests==2.31.0
 elevenlabs==1.4.0
 indic-transliteration==2.3.57
 # Replace googletrans with deep-translator
-googletrans==3.1.0a0
+googletrans-py==4.0.0
