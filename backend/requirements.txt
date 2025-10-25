@@ -5,4 +5,5 @@ python-dotenv==1.0.0
 requests==2.31.0
 elevenlabs==1.4.0
 indic-transliteration==2.3.57
-googletrans==4.0.0rc1
+# Replace googletrans with deep-translator
+deep-translator==1.11.4
